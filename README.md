@@ -30,7 +30,7 @@ Languages | Libraries & Frameworks
  HTML5 | PostgeSQL
  CSS3 | Node.js
  . | webpack
-- | Babel
+  | Babel
 - | jQuery
 - | Express.js
 
