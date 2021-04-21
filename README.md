@@ -40,8 +40,8 @@ JavaScript
 HTML5
 
 CSS3
-
-![icons8-react-100](https://user-images.githubusercontent.com/74999873/115597706-66e0db00-a28e-11eb-92f4-60535266afb0.png) React
+![icons8-react-50](https://user-images.githubusercontent.com/74999873/115597938-b1faee00-a28e-11eb-8937-c189f50fc93e.png)
+React
 
 Node.js
 
