@@ -24,11 +24,11 @@ I started small with a basic understanding of HTML, CSS and JavaScript but by th
 
 ## Skills
 
-Languages | Libraries & Frameworks
---------- | ----------------------
- JavaScript | React
- HTML5 | PostgeSQL
- CSS3 | Node.js
+Languages | Libraries & Frameworks | Tools
+--------- | ---------------------- | -----
+ JavaScript | React | git
+ HTML5 | PostgeSQL | Figma
+ CSS3 | Node.js 
  . | webpack
  . | Babel
  . | jQuery
