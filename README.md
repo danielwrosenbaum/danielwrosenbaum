@@ -53,8 +53,8 @@ jQuery
 
 A weather app that allows the user to look up the current weather in a city while viewing an historic painting that has a similar vibe and setting.
 
-[ GitHub Repo ] (https://github.com/danielwrosenbaum/art-of-weather)
-[ Live Site ] (https://danielwrosenbaum.github.io/art-of-weather/)
+[Repo](https://github.com/danielwrosenbaum/art-of-weather)
+[Live Site](https://danielwrosenbaum.github.io/art-of-weather/)
 
 
 ## Contact Me
