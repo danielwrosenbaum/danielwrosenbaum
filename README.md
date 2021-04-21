@@ -36,7 +36,6 @@ After working on my own for awhile I found I really enjoyed learning code and wa
 ## Skills
 
 ### Languages | Libraries & Frameworks
-------------- | ----------------------
 ![icons8-javascript-48](https://user-images.githubusercontent.com/74999873/115598273-161db200-a28f-11eb-9164-55f083723fb5.png) JavaScript | ![icons8-react-50](https://user-images.githubusercontent.com/74999873/115597938-b1faee00-a28e-11eb-8937-c189f50fc93e.png) React
 
 
