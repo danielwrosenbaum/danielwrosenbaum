@@ -2,6 +2,7 @@
 
 Full Stack Web Developer
 JavaScript | React | Node.js | PostgreSQL | Express.js 
+
 ![icons8-javascript-48](https://user-images.githubusercontent.com/74999873/115598273-161db200-a28f-11eb-9164-55f083723fb5.png)
 ![icons8-html-5-48](https://user-images.githubusercontent.com/74999873/115598088-e078c900-a28e-11eb-81d3-00d567fb55cd.png)
 ![icons8-css3-48](https://user-images.githubusercontent.com/74999873/115598173-f7b7b680-a28e-11eb-82cd-9cfb000c98fe.png)
@@ -23,6 +24,7 @@ After working on my own for awhile I found I really enjoyed learning code and wa
 I started small with a basic understanding of HTML, CSS and JavaScript but by the end of the course I was developing full-stack applications utilizing React, Node.js, Express, and PostgreSQL, among others. React in particular opened up a world of programming that I have thoroughly enjoyed and am greatly looking forward to expanding my capabilities as my development knowledge grows. 
 
 ## Skills
+
 
  JavaScript 
  HTML5 
