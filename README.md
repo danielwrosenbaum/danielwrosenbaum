@@ -35,19 +35,12 @@ After working on my own for awhile I found I really enjoyed learning code and wa
 
 ## Skills
 
-### Languages | Libraries & Frameworks
-![icons8-javascript-48](https://user-images.githubusercontent.com/74999873/115598273-161db200-a28f-11eb-9164-55f083723fb5.png) JavaScript | ![icons8-react-50](https://user-images.githubusercontent.com/74999873/115597938-b1faee00-a28e-11eb-8937-c189f50fc93e.png) React
-
-
-![icons8-html-5-48](https://user-images.githubusercontent.com/74999873/115598088-e078c900-a28e-11eb-81d3-00d567fb55cd.png) HTML5 | ![icons8-nodejs-48](https://user-images.githubusercontent.com/74999873/115598368-2f266300-a28f-11eb-9ffb-5397df67bd02.png) Node.js
-
-![icons8-css3-48](https://user-images.githubusercontent.com/74999873/115598173-f7b7b680-a28e-11eb-82cd-9cfb000c98fe.png) CSS3 | ![icons8-postgresql-48](https://user-images.githubusercontent.com/74999873/115598443-4b2a0480-a28f-11eb-9ffa-eb6dd7122b12.png) PostgreSQL
-
-
-
-
-
-
+![icons8-javascript-48](https://user-images.githubusercontent.com/74999873/115598273-161db200-a28f-11eb-9164-55f083723fb5.png) JavaScript
+![icons8-html-5-48](https://user-images.githubusercontent.com/74999873/115598088-e078c900-a28e-11eb-81d3-00d567fb55cd.png) HTML5  
+![icons8-css3-48](https://user-images.githubusercontent.com/74999873/115598173-f7b7b680-a28e-11eb-82cd-9cfb000c98fe.png) CSS3 
+![icons8-react-50](https://user-images.githubusercontent.com/74999873/115597938-b1faee00-a28e-11eb-8937-c189f50fc93e.png) React
+![icons8-postgresql-48](https://user-images.githubusercontent.com/74999873/115598443-4b2a0480-a28f-11eb-9ffa-eb6dd7122b12.png) PostgreSQL
+![icons8-nodejs-48](https://user-images.githubusercontent.com/74999873/115598368-2f266300-a28f-11eb-9ffb-5397df67bd02.png) Node.js
 Express.js
 
 
