@@ -24,20 +24,15 @@ I started small with a basic understanding of HTML, CSS and JavaScript but by th
 
 ## Skills
 
-
- JavaScript 
- HTML5 
- CSS3 
-
- React
- PostgreSQL
- Node.js
-
- webpack
- Babel
- jQuery
-
-Express.js
+Languages | Libraries & Frameworks
+--------- | ----------------------
+ JavaScript | React
+ HTML5 | PostgeSQL
+ CSS3 | Node.js
+      | webpack
+      | Babel
+      | jQuery
+      | Express.js
 
 
 
