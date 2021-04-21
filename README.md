@@ -39,6 +39,16 @@ Languages | Libraries & Frameworks | Tools
 
 ## Applications
 
+### bookShelf
+
+A full stack JavaScript application for readers who want to keep track of what they’ve read and add new books to a reading list.
+
+![user can search](https://user-images.githubusercontent.com/74999873/115623192-b5ea3880-a2ad-11eb-96f7-dbea2e995554.gif)
+
+[Repo](https://github.com/danielwrosenbaum/bookshelf)
+
+[Live Site](https://personal-book-manager.herokuapp.com/#)
+
 ### art-of-weather
 
 A weather app that allows the user to look up the current weather in a city while viewing an historic painting that has a similar vibe and setting.
