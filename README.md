@@ -29,7 +29,7 @@ Languages | Libraries & Frameworks
  JavaScript | React
  HTML5 | PostgeSQL
  CSS3 | Node.js
- - | webpack
+  | webpack
 - | Babel
 - | jQuery
 - | Express.js
