@@ -28,10 +28,10 @@ Languages | Libraries & Frameworks | Tools
 --------- | ---------------------- | -----
  JavaScript | React | git
  HTML5 | PostgeSQL | Figma
- CSS3 | Node.js 
- . | webpack
- . | Babel
- . | jQuery
+ CSS3 | Node.js | VS Code
+ . | webpack | npm
+ . | Babel | Adobe Photoshop
+ . | jQuery | Adobe Illustrator
  . | Express.js
 
 
