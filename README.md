@@ -20,7 +20,7 @@ Computers have fascinated me since a young age and I've always enjoyed discoveri
 
 After working on my own for awhile I found I really enjoyed learning code and wanted to take it more seriously. I spent hours searching for the right school before finding LearningFuze and I'm so glad I did. Web Development has been such a wonderful outlet for me and I love the feeling of being challenged by new material and technology. My goal is to pursue a career in coding for many years to come, while always maintaining that desire to constantly be learning and creating.
 
-I started small with a basic understanding of HTML, CSS and JavaScript but by the end of the course I was developing full-stack applications utilizing React, Node.js, Express, and PostgreSQL, among others. React in particular opened up a world of programming that I have thoroughly enjoyed and am greatly looking forward to expanding my capabilities as my development knowledge grows. 
+I started small with a basic understanding of HTML, CSS and JavaScript but by the end of the course I was developing full-stack applications utilizing React, Node.js, Express, and PostgreSQL, among others. React in particular opened up a world of programming to me that I have thoroughly enjoyed and am greatly looking forward to expanding my capabilities as my development knowledge grows. 
 
 ## Skills
 
