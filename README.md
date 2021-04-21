@@ -40,7 +40,10 @@ After working on my own for awhile I found I really enjoyed learning code and wa
 ![icons8-react-50](https://user-images.githubusercontent.com/74999873/115597938-b1faee00-a28e-11eb-8937-c189f50fc93e.png) React
 ![icons8-postgresql-48](https://user-images.githubusercontent.com/74999873/115598443-4b2a0480-a28f-11eb-9ffa-eb6dd7122b12.png) PostgreSQL
 ![icons8-nodejs-48](https://user-images.githubusercontent.com/74999873/115598368-2f266300-a28f-11eb-9ffb-5397df67bd02.png) Node.js
+
 Express.js
+jQuery
+
 
 
 ## Applications
