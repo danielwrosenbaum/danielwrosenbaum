@@ -14,7 +14,7 @@ Full Stack Web Developer
 
 ## About Me
 
-Hey there :wave:  I'm Daniel! I'm a musician and painter with a life-long passion for computers, software and all things tech. I've been a creative all my life and my love for creating and learning new things has led me to pursuing a career in software and web development.
+Hey there :wave: , I'm Daniel! I'm a musician and painter with a life-long passion for computers, software and all things tech. I've been a creative all my life and my love for creating and learning new things has led me to pursuing a career in software and web development.
 
 Computers have fascinated me since a young age and I've always enjoyed discovering how new machines and programs work. As a musician, I became very familiar with programs like Pro Tools and Logic pro, while as an artist, Adobe's Creative Suite opened up an exciting new world of digital creation. Software and web development seemed like the logical next step for me and so I spent months learning code on my own using websites like CodeAcademy and freeCodeCamp.
 
