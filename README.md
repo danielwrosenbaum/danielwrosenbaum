@@ -1,7 +1,6 @@
 # Daniel Rosenbaum
 
 Full Stack Web Developer
-JavaScript | React | Node.js | PostgreSQL | Express.js 
 
 ![icons8-javascript-48](https://user-images.githubusercontent.com/74999873/115598273-161db200-a28f-11eb-9164-55f083723fb5.png)
 ![icons8-html-5-48](https://user-images.githubusercontent.com/74999873/115598088-e078c900-a28e-11eb-81d3-00d567fb55cd.png)
@@ -15,7 +14,7 @@ JavaScript | React | Node.js | PostgreSQL | Express.js
 
 ## About Me
 
-I'm a musician and painter with a life-long passion for computers, software and all things tech. I've been a creative all my life and my love for creating and learning new things has led me to pursuing a career in software and web development.
+Hey there :wave:! I'm Daniel! I'm a musician and painter with a life-long passion for computers, software and all things tech. I've been a creative all my life and my love for creating and learning new things has led me to pursuing a career in software and web development.
 
 Computers have fascinated me since a young age and I've always enjoyed discovering how new machines and programs work. As a musician, I became very familiar with programs like Pro Tools and Logic pro, while as an artist, Adobe's Creative Suite opened up an exciting new world of digital creation. Software and web development seemed like the logical next step for me and so I spent months learning code on my own using websites like CodeAcademy and freeCodeCamp.
 
