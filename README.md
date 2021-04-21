@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 # Daniel Rosenbaum
-----------------------
+
 Full Stack Web Developer
 JavaScript | React | Node.js | PostgreSQL | Express.js 
+----------------------
 
 ## About Me
 
