@@ -42,10 +42,17 @@ After working on my own for awhile I found I really enjoyed learning code and wa
 ![icons8-nodejs-48](https://user-images.githubusercontent.com/74999873/115598368-2f266300-a28f-11eb-9ffb-5397df67bd02.png) Node.js
 
 Express.js
+
 jQuery
 
 
 
 ## Applications
+
+### art-of-weather
+A weather app that allows the user to look up the current weather in a city while viewing an historic painting that has a similar vibe and setting.
+[GitHub Repo] (https://github.com/danielwrosenbaum/art-of-weather)
+[Live Site] (https://danielwrosenbaum.github.io/art-of-weather/)
+
 
 ## Contact Me
