@@ -64,6 +64,7 @@ A weather app that allows the user to look up the current weather in a city whil
 
 [linkedIn](https://www.linkedin.com/in/danielwrosenbaum/)
 
-[Resume](https://github.com/danielwrosenbaum/danielwrosenbaum/files/6386231/Daniel_Rosenbaum_Resume_Final.pdf)
+[Resume](https://github.com/danielwrosenbaum/danielwrosenbaum/files/6408105/Daniel.Rosenbaum.Resume.pdf)
+
 
 
