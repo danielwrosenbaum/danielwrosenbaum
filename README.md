@@ -27,7 +27,7 @@ I started small with a basic understanding of HTML, CSS and JavaScript but by th
 Languages | Libraries & Frameworks | Tools
 --------- | ---------------------- | -----
  JavaScript | React | git
- HTML5 | PostgeSQL | Figma
+ HTML5 | PostgreSQL | Figma
  CSS3 | Node.js | VS Code
  . | webpack | npm
  . | Babel | Adobe Photoshop
