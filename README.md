@@ -43,7 +43,7 @@ Languages | Libraries & Frameworks | Tools
 
 A full stack JavaScript application for readers who want to keep track of what they’ve read and add new books to a reading list.
 
-![user can search](https://user-images.githubusercontent.com/74999873/115623192-b5ea3880-a2ad-11eb-96f7-dbea2e995554.gif)
+![book shelf main](https://user-images.githubusercontent.com/74999873/118196455-e2532980-b401-11eb-9228-7e6466a75e50.gif)
 
 [Repo](https://github.com/danielwrosenbaum/bookshelf)
 
