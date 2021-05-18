@@ -22,7 +22,8 @@ After working on my own for awhile I found I really enjoyed learning code and wa
 
 I started small with a basic understanding of HTML, CSS and JavaScript but by the end of the course I was developing full-stack applications utilizing React, Node.js, Express, and PostgreSQL, among others. React in particular opened up a world of programming to me that I have thoroughly enjoyed and am greatly looking forward to expanding my capabilities as my development knowledge grows. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielwrosenbaum)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielwrosenbaum&hide=stars&show_icons=true&theme=tokyonight)
+)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Skills
