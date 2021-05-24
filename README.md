@@ -48,6 +48,8 @@ A full stack JavaScript application for readers who want to keep track of what t
 
 ![book shelf main](https://user-images.githubusercontent.com/74999873/118196455-e2532980-b401-11eb-9228-7e6466a75e50.gif)
 
+[Video Demo](https://www.youtube.com/watch?v=ZVSjqmPsxEA&ab_channel=DanielRosenbaum)
+
 [Repo](https://github.com/danielwrosenbaum/bookshelf)
 
 [Live Site](https://personal-book-manager.herokuapp.com/#)
