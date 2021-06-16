@@ -32,10 +32,10 @@ Languages | Libraries & Frameworks | Tools
  JavaScript | React | git
  HTML5 | PostgreSQL | Figma
  CSS3 | Node.js | VS Code
- . | webpack | npm
- . | Babel | Adobe Photoshop
+ . | Next.js | npm
+ . | Babel | webpack
  . | jQuery | Adobe Illustrator
- . | Express.js
+ . | Express.js | Adobe Photoshop
 
 
 
