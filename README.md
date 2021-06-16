@@ -36,7 +36,7 @@ Languages | Libraries & Frameworks | Tools
  . | Express.js | webpack
  . | jQuery | Babel
  . | Gatsby | Adobe Photoshop
- . |  | Adobe Illustrator
+ . | Material UI | Adobe Illustrator
 
 
 
