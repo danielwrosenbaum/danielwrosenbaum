@@ -33,10 +33,10 @@ Languages | Libraries & Frameworks | Tools
  HTML5 | PostgreSQL | Figma
  CSS3 | Node.js | VS Code
  . | Next.js | npm
- . | Babel | webpack
- . | jQuery | Adobe Illustrator
- . | Express.js | Adobe Photoshop
-
+ . | Express.js | webpack
+ . | jQuery | Babel
+ . | Gatsby | Adobe Photoshop
+ . |  | Adobe Illustrator
 
 
 
